@@ -47,7 +47,7 @@ Each project includes complete ladder logic code, documentation, and simulation 
 ## 🎯 Key Projects
 
 ### Project 1: Basic Motor Control - Start/Stop with Latching Logic
-**File:** `ali_m_Ahmed_session5_task1.rsl`  
+![stop](images/stop)  
 **Description:** Fundamental PLC exercise demonstrating start/stop motor control with latching relay logic using basic contacts and coils.  
 **Key Components:**
 - Start button (I:1/0) - Initiates motor operation
@@ -84,7 +84,7 @@ When STOP button (I:1/1) is pressed:
 ---
 
 ### Project 2: Multi-Motor Forward/Reverse Control
-**File:** Session 5 Project  
+![start_stop](images/start_stop)  
 **Description:** Advanced motor control demonstrating forward/reverse operation with mechanical interlocks to prevent simultaneous activation.  
 **Key Components:**
 - Forward button (start control)
@@ -124,7 +124,8 @@ STOP:
 ---
 
 ### Project 3: Complex Batch Mix Simulator with Multi-Sensor Integration
-**File:** `ali_m_Ahmed_session5_task1.rsl` (Advanced version)  
+ 
+![simple_batch](images/simple_batch)
 **Description:** Industrial-grade process automation controlling a batch mixing system with multiple pumps, flowmeters, heater, and level sensors.  
 **Simulated Equipment:**
 - **Flowmeter 1 (I:1/05):** Measures inlet flow
@@ -212,7 +213,7 @@ STOP:
 ---
 
 ### Project 4: Advanced Batch Processing with Comparison Logic
-**File:** Session 5 Task (Advanced)  
+![Advanced Batch] 
 **Description:** Enhanced batch system demonstrating advanced comparison operations, threshold detection, and conditional branching for complex process control.  
 **Key Components:**
 - **Comparison blocks:** LEQ (Less Than or Equal), GEQ (Greater Than or Equal)
