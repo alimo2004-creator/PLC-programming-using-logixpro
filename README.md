@@ -213,7 +213,7 @@ STOP:
 ---
 
 ### Project 4: Advanced Batch Processing with Comparison Logic
-![Advanced Batch] 
+![Advanced Batch](advanced_batch.rar) 
 **Description:** Enhanced batch system demonstrating advanced comparison operations, threshold detection, and conditional branching for complex process control.  
 **Key Components:**
 - **Comparison blocks:** LEQ (Less Than or Equal), GEQ (Greater Than or Equal)
@@ -259,7 +259,7 @@ Output Actions:
 ---
 
 ### Project 5: Advanced Timer-Based Sequencing System
-**File:** Multi-timer sequencing project  
+![sequential](advanced_motor.rar)
 **Description:** Sophisticated control system using 4 Timer On Delay (TON) blocks to create complex sequential operations with precise timing control.  
 **Key Components:**
 - **Timer T1 (TON):** Initial delay/startup phase
@@ -1179,7 +1179,7 @@ Planned additions to the repository:
 ## 📚 Additional Learning Resources
 
 ### Official Documentation
-- [Rockwell Automation LogixPRO Documentation](https://www.rockwellautomation.com/)
+- [Rockwell Automation Documentation](https://www.rockwellautomation.com/)
 - [Allen-Bradley PLC Programming Manual](https://ab.rockwellautomation.com/)
 - IEC 61131-3 Standard Specification
 
